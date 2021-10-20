@@ -1,6 +1,6 @@
 [
     {
-        "title":"Smallpoxis virus",
+        "title":"Smallpoxis",
         "fees":"500",
         "image":"https://thecolumbianexchange.weebly.com/uploads/1/0/0/3/10035669/6354955_orig.jpg",
         "key":"1",
@@ -29,7 +29,7 @@
         "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/HCV.png/220px-HCV.png",
         "key":"4",
         "description":"Rabies is a deadly virus spread to people from the saliva of infected animals. The rabies virus is usually transmitted through a bite. Animals most likely to transmit rabies in the United States include bats, coyotes, foxes, raccoons and skunks.",
-        "symptoms":"Fever,Headache,Nausea,Vomiting,Agitation,Anxiety,Confusion,Hyperactivity."
+        "symptoms":"Most common symptoms :Fever,Headache,Nausea,Vomiting,Agitation,Anxiety,Confusion,Hyperactivity."
     },
     {
         "title":"HIV Virus",
@@ -45,10 +45,10 @@
         "image":"https://images.medicinenet.com/images/government/sin-nombre-hantavirus.jpg",
         "key":"6",
         "description":"Hantavirus is a virus that is found in the urine, saliva, or droppings of infected deer mice and some other wild rodents (cotton rats, rice rats in the southeastern Unites States and the white-footed mouse and the red-backed vole). It causes a rare but serious lung disease called Hantavirus pulmonary syndrome (HPS).",
-        "symptoms":"headaches, dizziness, chills, and abdominal problems, such as nausea, vomiting, diarrhea, and abdominal pain."
+        "symptoms":"headaches, dizziness, chills, such as nausea, vomiting, diarrhea, and abdominal pain."
     },
     {
-        "title":"Influenza Viruse",
+        "title":"Influenza",
         "fees":"500",
         "image":"https://upload.wikimedia.org/wikipedia/commons/e/ea/H1N1_navbox.jpg",
         "key":"7",
