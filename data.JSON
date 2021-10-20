@@ -1,0 +1,83 @@
+[
+    {
+        "title":"Smallpoxis virus",
+        "fees":"500",
+        "image":"https://thecolumbianexchange.weebly.com/uploads/1/0/0/3/10035669/6354955_orig.jpg",
+        "key":"1",
+        "description":"Smallpoxis a serious, life-threatening illness causes by variola virus. It causes pus-filled blisters (pustules) to develop on the skin. In 1980, the World Health Organization (WHO) declared that smallpox had been eradicated (wiped out).. Since the late 1970s, there haven't been any confirmed cases of smallpox.",
+        "symptoms":"Fever,Overall discomfort, Headache,Severe fatigue,Severe back pain,Vomiting, possibly.,"
+    },
+    {
+        "title":"Marburg Virus",
+        "fees":"500",
+        "image":"https://newsaf.cgtn.com/news/2021-09-17/Guinea-declares-end-of-Marburg-virus-disease-outbreak-13C9B9WHM7C/img/fbca7cde025a44258f9c6ff19bc831ab/fbca7cde025a44258f9c6ff19bc831ab.jpeg",
+        "key":"2",
+        "description":"Marburg virus disease (MVD) is a rare but severe hemorrhagic fever which affects both people and non-human primates. MVD is caused by the Marburg virus, a genetically unique zoonotic (or, animal-borne) RNA virus of the filovirus family.",
+        "symptoms":"Nausea, vomiting, chest pain, a sore throat, abdominal pain, and diarrhea may appear. Symptoms become increasingly severe and can include jaundice, inflammation of the pancreas, severe weight loss, delirium, shock, liver failure, massive hemorrhaging, and multi-organ dysfunction."
+    },
+    {
+        "title":"Ebola Virus",
+        "fees":"500",
+        "image":"https://cdn.mos.cms.futurecdn.net/ojTkVqU386E7S6YsD6fJuR-970-80.jpg.webp",
+        "key":"3",
+        "description":"Ebola virus disease (EVD) is a deadly disease with occasional outbreaks that occur mostly on the African continent. EVD most commonly affects people and nonhuman primates (such as monkeys, gorillas, and chimpanzees). It is caused by an infection with a group of viruses within the genus Ebolavirus:",
+        "symptoms":"Symptoms may appear anywhere from 2 to 21 days after contact with the virus, with an average of 8 to 10 days. The course of the illness typically progresses from “dry” symptoms initially (such as fever, aches and pains, and fatigue), and then progresses to “wet” symptoms (such as diarrhea and vomiting) as the person becomes sicker."
+    },
+    {
+        "title":"Rabies Virus",
+        "fees":"500",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/HCV.png/220px-HCV.png",
+        "key":"4",
+        "description":"Rabies is a deadly virus spread to people from the saliva of infected animals. The rabies virus is usually transmitted through a bite. Animals most likely to transmit rabies in the United States include bats, coyotes, foxes, raccoons and skunks.",
+        "symptoms":"Fever,Headache,Nausea,Vomiting,Agitation,Anxiety,Confusion,Hyperactivity."
+    },
+    {
+        "title":"HIV Virus",
+        "fees":"500",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/1/1a/HIV-budding-Color.jpg",
+        "key":"5",
+        "description":"HIV (human immunodeficiency virus) is a virus that attacks the body's immune system. If HIV is not treated, it can lead to AIDS (acquired immunodeficiency syndrome). There is currently no effective cure. Once people get HIV, they have it for life. But with proper medical care, HIV can be controlled.",
+        "symptoms":"Fever,Chills,Rash,Night sweats,Muscle aches,Sore throat,Fatigue,Swollen lymph nodes."
+    },
+    {
+        "title":"Hanta Virus",
+        "fees":"500",
+        "image":"https://images.medicinenet.com/images/government/sin-nombre-hantavirus.jpg",
+        "key":"6",
+        "description":"Hantavirus is a virus that is found in the urine, saliva, or droppings of infected deer mice and some other wild rodents (cotton rats, rice rats in the southeastern Unites States and the white-footed mouse and the red-backed vole). It causes a rare but serious lung disease called Hantavirus pulmonary syndrome (HPS).",
+        "symptoms":"Early symptoms include fatigue, fever and muscle aches, especially in the large muscle groups—thighs, hips, back, and sometimes shoulders. These symptoms are universal. There may also be headaches, dizziness, chills, and abdominal problems, such as nausea, vomiting, diarrhea, and abdominal pain."
+    },
+    {
+        "title":"Influenza Viruse",
+        "fees":"500",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/e/ea/H1N1_navbox.jpg",
+        "key":"7",
+        "description":"Influenza is a viral infection that attacks your respiratory system — your nose, throat and lungs. Influenza is commonly called the flu, but it's not the same as stomach 'flu' viruses that cause diarrhea andvomiting. For most people, the flu resolves on its own",
+        "symptoms":"*fever* or feeling feverish/chills,cough,sore throat,runny or stuffy nose,muscle or body aches,headaches,fatigue (tiredness)some people may have vomiting and diarrhea, though this is more common in children than adults."
+    },
+    {
+        "title":"Rota Virus",
+        "fees":"500",
+        "image":"https://microbewiki.kenyon.edu/images/f/ff/Botulism.jpg",
+        "key":"8",
+        "description":"Rotavirus is a very contagious virus that causes diarrhea. Before the development of a vaccine, most children had been infected with the virus at least once by age 5. Although rotavirus infections are unpleasant, you can usually treat this infection at home with extra fluids to prevent dehydration.",
+        "symptoms":"Symptoms usually start about two days after a person is exposed to rotavirus. Vomiting and watery diarrhea can last three to eight days. Additional symptoms may include loss of appetite and dehydration (loss of body fluids), which can be especially dangerous for infants and young children."
+    },
+    {
+        "title":"SARS-COV Virus",
+        "fees":"500",
+        "image":"https://thebulletin.org/wp-content/uploads/2020/06/902px-SARS-CoV-2_yellow.jpg.webp",
+        "key":"9",
+        "description":"The virus that causes a respiratory disease called coronavirus disease 19 (COVID-19). SARS-CoV-2 is a member of a large family of viruses called coronaviruses. These viruses can infect people and some animals. SARS-CoV-2 was first known to infect people in 2019.",
+        "symptoms":"COVID-19 affects different people in different ways, Most infected people will develop mild to moderate illness and recover without hospitalization, Most common symptoms:fever,cough,tiredness,loss of taste or smell."
+    },
+    {
+        "title":"MERS-COV Virus ",
+        "fees":"500",
+        "image":"https://www.cdc.gov/coronavirus/mers/images/header_vp4.jpg",
+        "key":"10",
+        "description":"Middle East Respiratory Syndrome (MERS) is viral respiratory illness that is new to humans. It was first reported in Saudi Arabia in 2012 and has since spread to several other countries, including the United States. Most people infected with MERS-CoV developed severe respiratory illness, including fever, cough, and shortness of breath. Many of them have died.",
+        "symptoms":"COVID-19 affects different people in different ways. Most infected people will develop mild to moderate illness and recover without hospitalization.Most common symptoms:fever,cough,tiredness,loss of taste or smell."
+    }
+    
+]
